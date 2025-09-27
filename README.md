@@ -66,15 +66,8 @@ These plots compare the results obtained from the three different forward modeli
 
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request.
 
-## License
 
-[Specify your license here, e.g., MIT License]
-
-## Acknowledgments
-
-- Stanley H. Ward and the historical development of the Magnetotelluric method.
-- Alan D. Chave for his contributions to MT data processing and interpretation.
-- References for the implemented methods:
+## References
     - Wait, J. R. (1954). Mutual Coupling of Loops in a Layered Homogeneous Half-Space. *Geophysics*, 19(2), 290-296.
     - Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam's inversion: A practical algorithm for generating smooth models from electromagnetic sounding data. *Geophysics*, 52(3), 289-300.
     - Grandis, H. (1999). 1D MT forward modelling program. *Computers & Geosciences*, 25(3), 253-260.
