@@ -62,11 +62,6 @@ The code outputs plots showing:
 
 These plots compare the results obtained from the three different forward modeling methods.
 
-## Contributing
-
-If you would like to contribute to this project, please feel free to fork the repository and submit a pull request.
-
-
 ## References
     - Wait, J. R. (1954). Mutual Coupling of Loops in a Layered Homogeneous Half-Space. *Geophysics*, 19(2), 290-296.
     - Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam's inversion: A practical algorithm for generating smooth models from electromagnetic sounding data. *Geophysics*, 52(3), 289-300.
